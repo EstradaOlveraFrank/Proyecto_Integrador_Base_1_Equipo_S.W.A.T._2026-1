@@ -106,7 +106,7 @@ El lenguaje soportado es un subconjunto de Python orientado a cálculos aritmét
 
 &#x20;  ```bash
 
-&#x20;  git clone https://github.com/NEUTRALDUST21/Proyecto\_Integrador\_Base\_1\_Equipo\_S.W.A.T.\_2026-1.git
+&#x20;  git clone https://github.com/EstradaOlveraFrank/Proyecto_Integrador_Base_1_Equipo_S.W.A.T._2026-1.git
 
 &#x20;  cd Proyecto\_Integrador\_Base\_1\_Equipo\_S.W.A.T.\_2026-1
 
